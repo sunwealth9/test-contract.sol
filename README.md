@@ -1,0 +1,2 @@
+# test-contract.sol
+contract
