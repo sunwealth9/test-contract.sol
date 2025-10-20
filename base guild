@@ -1,0 +1,4 @@
+pragma solidity
+contract test
+string public 
+funtion update message
